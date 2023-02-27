@@ -1,5 +1,8 @@
-function Table() {
-  return <div>Table</div>
+function Table({ data }) {
+  return (
+    <table>
+    </table>
+  )
 }
 
 export default Table;
